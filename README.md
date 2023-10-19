@@ -1,5 +1,3 @@
-Here is the text formatted in Markdown:
-
 # ONE-D: File Management Simplified!
 
 ## About the Project
