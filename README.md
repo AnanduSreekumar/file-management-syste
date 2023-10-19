@@ -30,5 +30,3 @@ This project was created for CMPE-281 - Cloud Technologies under the guidance of
 2. Progress bar with overall upload/delete/modified
 3. Overall file control with delete option
 4. Active user info
-
-Please note that the links are placeholders and will not lead to actual content.
